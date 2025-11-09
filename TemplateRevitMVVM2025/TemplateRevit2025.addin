@@ -1,0 +1,11 @@
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>TemplateRevit2025</Name>
+		<Assembly>TemplateRevit2025\TemplateRevit2025.dll</Assembly>
+		<AddInId>3D0A27AF-F28C-4955-B861-0D84F2570133</AddInId>
+		<FullClassName>TemplateRevit2025.App</FullClassName>
+		<Text>TemplateRevit2025</Text>
+		<VendorId>RevitPlugins</VendorId>
+		<VendorDescription>RevitPlugins</VendorDescription>
+	</AddIn>
+</RevitAddIns>	
