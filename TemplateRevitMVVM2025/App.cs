@@ -27,7 +27,7 @@ namespace TemplateRevitMVVM2025
             // Создаем кнопку
             Image img = Properties.Resources.icon32x32;
 
-            AddButton(ribbonPanel, "МойПлагин", assemblyPath, "TemplateRevitMVVM2025.MyCommand", "Описание плагина", img);
+            AddButton(ribbonPanel, "МойПлагин", assemblyPath, "TemplateRevitMVVM2025.Main", "Описание плагина", img);
 
             return Result.Succeeded;
         }
